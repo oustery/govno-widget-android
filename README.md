@@ -1,6 +1,6 @@
 # Govno Widget
 
-![Govno Widget Logo](link-to-logo.png)
+<img src="https://raw.githubusercontent.com/oustery/examples/refs/heads/main/govno-widget-android/logo.png" alt="Govno Logo" height="200" />
 
 Govno Widget — это удобное приложение для Android, которое позволяет добавлять на главный экран вашего телефона виджет для просмотра курса криптовалюты \$GOVNO. Следите за изменениями курса в реальном времени, не открывая дополнительных приложений!
 
